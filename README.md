@@ -35,7 +35,7 @@ Project 16 - Capital Cities: An app that shows the locations of capital cities a
 
 Project 17 - Space Race: A survival game: the player will have to pilot a spaceship safely through a field of space junk. The longer they stay alive the higher their score will be, but they need to keep moving otherwise certain death awaits! Intro to pixel perfect collision detection, Timer, linear damping and more.
 
-Project 18 - Debugging:
+Project 18 - Debugging: In this project we’ll be looking at several different debugging techniques, all of which are useful. Intro to assert(), breakpoints, view debugging and more.
 
 Project 19 - JavaScript Injection:
 
