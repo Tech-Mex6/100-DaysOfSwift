@@ -41,7 +41,7 @@ Project 19 - JavaScript Injection: In this project you're going to create a Safa
 
 Project 20 - Fireworks Night: A game built with SpriteKit, where the player causes fireworks to explode when the device is shaken.
 
-Project 21 - Local Notifications:
+Project 21 - Local Notifications: What you're going to learn about are local notifications, which lets you send reminders to your user's lock screen to show them information when your app isn't running. If you set a reminder in your calendar, making it pop up on your lock screen at the right time is a local notification. Intro to UNUserNotificationCenter, requesting permission for notifications, different kinds of notification triggers and more.
 
 Project 22 - Detect-a-Beacon:
 
