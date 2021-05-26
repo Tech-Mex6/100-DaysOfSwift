@@ -37,7 +37,7 @@ Project 17 - Space Race: A survival game: the player will have to pilot a spaces
 
 Project 18 - Debugging: In this project we’ll be looking at several different debugging techniques, all of which are useful. Intro to assert(), breakpoints, view debugging and more.
 
-Project 19 - JavaScript Injection:
+Project 19 - JavaScript Injection: In this project you're going to create a Safari extension, which lets us embed a version of our app directly inside Safari's action menu, then manipulate Safari data in interesting ways. Intro to extensions, NSExtensionItem, NotificationCenter and a touch of JavaScript.
 
 Project 20 - Fireworks Night:
 
