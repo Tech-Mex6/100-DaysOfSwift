@@ -5,4 +5,4 @@ Project 1 - Storm Viewer: This app was built using Swift storyboard. its an app 
 
 Project 2 - Guess the flag: A game that shows some random flags to users and asks them to choose which one belongs to a particular country. An intro to UIButtons and AutoLayout in storyboard.
 
-Project 3 - 
+Project 3 - Social Media: 
