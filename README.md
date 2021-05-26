@@ -25,7 +25,7 @@ Project 11 - Pachinko: A game built using the SpriteKit framework.
 
 Project 12 - User Defaults: Modified Project 10 to enable us save the names that are given to the images using UserDefault and NSCoding.
 
-Project 13 - InstaFilter:
+Project 13 - InstaFilter: This app lets users choose a picture from their photos, then manipulate it with a series of Core Image filters. Once they are happy, they can save the processed image back to their photo library. Intro to UISlider.
 
 Project 14 - Whack-A-Penguin:
 
