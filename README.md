@@ -27,7 +27,7 @@ Project 12 - User Defaults: Modified Project 10 to enable us save the names that
 
 Project 13 - InstaFilter: This app lets users choose a picture from their photos, then manipulate it with a series of Core Image filters. Once they are happy, they can save the processed image back to their photo library. Intro to UISlider.
 
-Project 14 - Whack-A-Penguin:
+Project 14 - Whack-A-Penguin: Similar to whack-a-mole, its built using SpriteKit. Intro to SKCropeNode, SKTexture and some more types of SKAction.
 
 Project 15 - Animation:
 
