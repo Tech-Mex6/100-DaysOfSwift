@@ -31,6 +31,6 @@ Project 14 - Whack-A-Penguin: Similar to whack-a-mole, its built using SpriteKit
 
 Project 15 - Animation: Intro to animate(withDuration:), CGAffineTransform, alpha and more.
 
-Project 16 - Capital Cities: 
+Project 16 - Capital Cities: An app that shows the locations of capital cities around the world, and when one of them is tapped you can bring up more information about the city in question.
 
 Project 17 - Space Race:
