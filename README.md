@@ -11,9 +11,9 @@ Project 4 - Easy Browser: Created a web browser app. An intro to WKWebView and T
 
 Project 5 - Word Scramble: A word game that deals with anagrams.
 
-Project 6 - AutoLayout:
+Project 6 - AutoLayout: Modified project 2 to handle image views in both portrait and landscape mode. Intro to advanced auto layout.
 
-Project 7 - Whitehouse Petitions:
+Project 7 - Whitehouse Petitions: This project entails taking data from a website and parsing it into useful information for the user. Intro to JSON parsing and UITabBarController
 
 Project 8 - Swift Words:
 
