@@ -21,7 +21,7 @@ Project 9 - Grand Central Dispatch (GCD): You learn about GCD, quality of servic
 
 Project 10 - Names to faces: This is a fun, simple and useful project that will help the user store names of people they've met by associating a name to an image. Intro to UICollectionViewController, UIImagePickerController, UUID and Data.
 
-Project 11 - Pachinko:
+Project 11 - Pachinko: A game built using the SpriteKit framework.
 
 Project 12 - User Defaults:
 
