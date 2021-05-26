@@ -33,4 +33,28 @@ Project 15 - Animation: Intro to animate(withDuration:), CGAffineTransform, alph
 
 Project 16 - Capital Cities: An app that shows the locations of capital cities around the world, and when one of them is tapped you can bring up more information about the city in question.
 
-Project 17 - Space Race:
+Project 17 - Space Race: A survival game: the player will have to pilot a spaceship safely through a field of space junk. The longer they stay alive the higher their score will be, but they need to keep moving otherwise certain death awaits! Intro to pixel perfect collision detection, Timer, linear damping and more.
+
+Project 18 - Debugging:
+
+Project 19 - JavaScript Injection:
+
+Project 20 - Fireworks Night:
+
+Project 21 - Local Notifications:
+
+Project 22 - Detect-a-Beacon:
+
+Project 23 - Swifty Ninja:
+
+Project 24 - Swift Strings:
+
+Project 25 - Selfie Share:
+
+Project 26 - Marble Maze:
+
+Project 27 - Core Graphics:
+
+Project 28 - Secret Swift:
+
+Project 29 - Exploding Monkeys:
