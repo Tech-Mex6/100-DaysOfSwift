@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="fBN-x2-jrb">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17125"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Project2" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9D0-8d-0gz">
+                                <rect key="frame" x="107" y="100" width="200" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="9D0-8d-0gz" secondAttribute="height" multiplier="2:1" id="2C7-0j-qqR"/>
+                                </constraints>
+                                <state key="normal" image="nigeria"/>
+                                <connections>
+                                    <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="dTd-bE-tvu"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="2" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gzh-kB-Joa">
+                                <rect key="frame" x="107" y="360" width="200" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="gzh-kB-Joa" secondAttribute="height" multiplier="2:1" id="wiW-NF-I10"/>
+                                </constraints>
+                                <state key="normal" image="nigeria"/>
+                                <connections>
+                                    <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Xfv-lq-h4Y"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oeK-Tf-Fav">
+                                <rect key="frame" x="107" y="230" width="200" height="100"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="oeK-Tf-Fav" secondAttribute="height" multiplier="2:1" id="JLa-fU-XMD"/>
+                                </constraints>
+                                <state key="normal" image="nigeria"/>
+                                <connections>
+                                    <action selector="buttonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="w84-bY-bc7"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="gzh-kB-Joa" firstAttribute="centerX" secondItem="oeK-Tf-Fav" secondAttribute="centerX" id="9zi-4Q-65L"/>
+                            <constraint firstItem="9D0-8d-0gz" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="12" id="A5d-Xq-fO3"/>
+                            <constraint firstItem="oeK-Tf-Fav" firstAttribute="centerX" secondItem="9D0-8d-0gz" secondAttribute="centerX" id="AdY-51-wb0"/>
+                            <constraint firstItem="gzh-kB-Joa" firstAttribute="top" secondItem="oeK-Tf-Fav" secondAttribute="bottom" constant="30" id="I9O-ZW-2oB"/>
+                            <constraint firstItem="gzh-kB-Joa" firstAttribute="height" secondItem="oeK-Tf-Fav" secondAttribute="height" id="RSI-EW-7Qo"/>
+                            <constraint firstItem="oeK-Tf-Fav" firstAttribute="top" secondItem="9D0-8d-0gz" secondAttribute="bottom" constant="30" id="m4W-fF-eXf"/>
+                            <constraint firstItem="oeK-Tf-Fav" firstAttribute="height" secondItem="9D0-8d-0gz" secondAttribute="height" id="xEX-tM-GoB"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="gzh-kB-Joa" secondAttribute="bottom" constant="20" id="yNt-fK-mrZ"/>
+                            <constraint firstItem="9D0-8d-0gz" firstAttribute="centerX" secondItem="6Tk-OE-BBY" secondAttribute="centerX" id="z6R-lS-InP"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="t97-sj-pdK"/>
+                    <connections>
+                        <outlet property="button1" destination="9D0-8d-0gz" id="2GQ-WR-YJd"/>
+                        <outlet property="button2" destination="oeK-Tf-Fav" id="eaO-01-GLA"/>
+                        <outlet property="button3" destination="gzh-kB-Joa" id="UbX-js-GiY"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1047.8260869565217" y="93.75"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="xFM-Dp-H65">
+            <objects>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="fBN-x2-jrb" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="qfF-2B-VmD">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="xj0-fb-BPR"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="mR2-8Y-zL1" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="137.68115942028987" y="93.75"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="nigeria" width="200" height="100"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
