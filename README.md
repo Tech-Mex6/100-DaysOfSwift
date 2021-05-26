@@ -39,7 +39,7 @@ Project 18 - Debugging: In this project we’ll be looking at several different 
 
 Project 19 - JavaScript Injection: In this project you're going to create a Safari extension, which lets us embed a version of our app directly inside Safari's action menu, then manipulate Safari data in interesting ways. Intro to extensions, NSExtensionItem, NotificationCenter and a touch of JavaScript.
 
-Project 20 - Fireworks Night:
+Project 20 - Fireworks Night: A game built with SpriteKit, where the player causes fireworks to explode when the device is shaken.
 
 Project 21 - Local Notifications:
 
