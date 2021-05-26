@@ -23,7 +23,7 @@ Project 10 - Names to faces: This is a fun, simple and useful project that will 
 
 Project 11 - Pachinko: A game built using the SpriteKit framework.
 
-Project 12 - User Defaults:
+Project 12 - User Defaults: Modified Project 10 to enable us save the names that are given to the images using UserDefault and NSCoding.
 
 Project 13 - InstaFilter:
 
