@@ -43,9 +43,9 @@ Project 20 - Fireworks Night: A game built with SpriteKit, where the player caus
 
 Project 21 - Local Notifications: What you're going to learn about are local notifications, which lets you send reminders to your user's lock screen to show them information when your app isn't running. If you set a reminder in your calendar, making it pop up on your lock screen at the right time is a local notification. Intro to UNUserNotificationCenter, requesting permission for notifications, different kinds of notification triggers and more.
 
-Project 22 - Detect-a-Beacon:
+Project 22 - Detect-a-Beacon:  In this project you're going to learn to detect and range beacons, which in turn means learning how to ask your user for their location. With this, you'll have all the tools required to make your own location-aware apps. Intro to Core Location and CLBeaconRegion
 
-Project 23 - Swifty Ninja:
+Project 23 - Swifty Ninja: This is a Fruit Ninja-style game, where slicing penguins is good and slicing bombs is bad. I think I must unconsciously have something against penguins. Intro to SKShapeNode, touchesEnded(), AVAudioPlayer and more.
 
 Project 24 - Swift Strings:
 
