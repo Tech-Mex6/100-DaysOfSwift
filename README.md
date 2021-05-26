@@ -19,7 +19,7 @@ Project 8 - Swifty Words: Built entirely in code no storyboard. It is a word gam
 
 Project 9 - Grand Central Dispatch (GCD): You learn about GCD, quality of service queues, performSelector() and much more
 
-Project 10 - Names to faces: This is a fun, simple and useful project that will help the user store names of people they've met by associating a name to an image.
+Project 10 - Names to faces: This is a fun, simple and useful project that will help the user store names of people they've met by associating a name to an image. Intro to UICollectionViewController, UIImagePickerController, UUID and Data.
 
 Project 11 - Pachinko:
 
