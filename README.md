@@ -15,7 +15,7 @@ Project 6 - AutoLayout: Modified project 2 to handle image views in both portrai
 
 Project 7 - Whitehouse Petitions: This project entails taking data from a website and parsing it into useful information for the user. Intro to JSON parsing and UITabBarController
 
-Project 8 - Swifty Words: Built entirely in code no storyboard. It is a word game based on the popular indie game 7 Little Words. Users are going to see a list of hints and an array of buttons with different letters on, and need to use those buttons to enter words matching the hints.
+Project 8 - Swifty Words: Built entirely in code, no storyboard. It is a word game based on the popular indie game 7 Little Words. Users are going to see a list of hints and an array of buttons with different letters on, and need to use those buttons to enter words matching the hints.
 
 Project 9 - Grand Central Dispatch (GCD): You learn about GCD, quality of service queues, performSelector() and much more
 
