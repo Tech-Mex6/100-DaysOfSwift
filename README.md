@@ -29,8 +29,8 @@ Project 13 - InstaFilter: This app lets users choose a picture from their photos
 
 Project 14 - Whack-A-Penguin: Similar to whack-a-mole, its built using SpriteKit. Intro to SKCropeNode, SKTexture and some more types of SKAction.
 
-Project 15 - Animation:
+Project 15 - Animation: Intro to animate(withDuration:), CGAffineTransform, alpha and more.
 
-Project 16 - Capital Cities:
+Project 16 - Capital Cities: 
 
 Project 17 - Space Race:
